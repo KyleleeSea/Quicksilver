@@ -1,4 +1,4 @@
-QuickSilver
+Quicksilver
 ========================
 For CMU TartanHacks S26 AppLovin Track 15kb Mobile Game Track
 
