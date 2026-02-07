@@ -1,7 +1,8 @@
-Build Tool (Most Updated)
+QuickSilver
 ========================
+For CMU TartanHacks S26 AppLovin Track 15kb Mobile Game Track
 
-Based on https://github.com/js13kGames/death-estate
+(link demo video here)
 
 ## Setup
 
@@ -9,17 +10,11 @@ Based on https://github.com/js13kGames/death-estate
    1. `nvm use` to use the current version in `.nvmrc`
 2. `npm i`
 
-## Build
+## Build / Play
 
 1. `npm run build`
+2. ./run.sh dist/game.tar.br
 
-This will make a build in `dist/` folder.
-
-## Local dev
-
-1. ./run.sh dist/game.tar.br
-
-## Levels
-
-Level configs live in `src/js/levels.js`.
-Authoring docs are in `docs/levels.md`.
+## Credits
+[Little JS](https://github.com/KilledByAPixel/LittleJS)
+[Death Estate](https://js13kgames.com/2022/games/death-estate)
